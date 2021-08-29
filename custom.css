@@ -1,5 +1,5 @@
 .controller.edit {
-    background: url(base.png);
+    background: url(base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -7,11 +7,11 @@
 }
 
 .edit.white {
-    background: url(base.png);
+    background: url(base.svg);
 }
 
 .edit.disconnected {
-    background: url(disconnected.png);
+    background: url(disconnected.svg);
 }
 
 .edit.disconnected div {
@@ -21,20 +21,20 @@
 .edit .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger.png);
+    background: url(trigger.svg);
     opacity: 0;
 }
 
 .edit .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper.png);
+    background: url(bumper.svg);
     opacity: 0;
 }
 
 .edit .quadrant {
     position: absolute;
-    background: url(quadrant.png);
+    background: url(quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -43,7 +43,7 @@
 }
 
 .edit .back, .edit .start {
-    background: url(start-select.png);
+    background: url(start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -51,21 +51,21 @@
 
 .edit .button {
     position: absolute;
-    background: url(abxy.png);
+    background: url(abxy.svg);
     width: 48px;
     height: 48px;
 }
 
 .edit .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url(stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 
 .edit .face {
-    background: url(dpad.png);
+    background: url(dpad.svg);
     position: absolute;
     opacity: 0;
 }
