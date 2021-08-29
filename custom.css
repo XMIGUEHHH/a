@@ -1,13 +1,13 @@
 .controller.edit {
-    background: url(base.svg);
+    background: url(base.svgz);
 }
 
 .edit.white {
-    background: url(base.svg);
+    background: url(base.svgz);
 }
 
 .edit.disconnected {
-    background: url(disconnected.svg);
+    background: url(disconnected.svgz);
 }
 
 .edit.disconnected div {
@@ -15,29 +15,29 @@
 }
 
 .edit .trigger {
-    background: url(trigger.svg);
+    background: url(trigger.svgz);
 }
 
 .edit .bumper {
-    background: url(bumper.svg);
+    background: url(bumper.svgz);
 }
 
 .edit .quadrant {
-    background: url(quadrant.svg);
+    background: url(quadrant.svgz);
 }
 
 .edit .back, .edit .start {
-    background: url(start-select.svg);
+    background: url(start-select.svgz);
 }
 
 .edit .button {
-    background: url(abxy.svg);
+    background: url(abxy.svgz);
 }
 
 .edit .stick {
-    background: url(stick.svg);
+    background: url(stick.svgz);
 }
 
 .edit .face {
-    background: url(dpad.svg);
+    background: url(dpad.svgz);
 }
