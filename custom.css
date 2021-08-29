@@ -1,4 +1,4 @@
-.controller.xbox {
+.controller.edit {
     background: url(base.png);
     height: 630px;
     width: 750px;
@@ -6,33 +6,33 @@
         margin-top: -285px;*/
 }
 
-.xbox.white {
+.edit.white {
     background: url(base.png);
 }
 
-.xbox.disconnected {
+.edit.disconnected {
     background: url(disconnected.png);
 }
 
-.xbox.disconnected div {
+.edit.disconnected div {
     display: none;
 }
 
-.xbox .trigger {
+.edit .trigger {
     width: 88px;
     height: 121px;
     background: url(trigger.png);
     opacity: 0;
 }
 
-.xbox .bumper {
+.edit .bumper {
     width: 170px;
     height: 61px;
     background: url(bumper.png);
     opacity: 0;
 }
 
-.xbox .quadrant {
+.edit .quadrant {
     position: absolute;
     background: url(quadrant.png);
     height: 45px;
@@ -42,21 +42,21 @@
     z-index: 0;
 }
 
-.xbox .back, .xbox .start {
+.edit .back, .edit .start {
     background: url(start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
 }
 
-.xbox .button {
+.edit .button {
     position: absolute;
     background: url(abxy.png);
     width: 48px;
     height: 48px;
 }
 
-.xbox .stick {
+.edit .stick {
     position: absolute;
     background: url(stick.png);
     background-position: -85px 0;
@@ -64,7 +64,7 @@
     width: 83px;
 }
 
-.xbox .face {
+.edit .face {
     background: url(dpad.png);
     position: absolute;
     opacity: 0;
